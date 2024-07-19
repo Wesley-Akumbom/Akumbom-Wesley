@@ -1,33 +1,36 @@
-### Hi there 👋, I am Akumbom Wesley
-#### I am a Computer Engineer
-![I am a Computer Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<h1 align="center">Hi 👋, I'm Akumbom Wesley</h1>
+<h3 align="center">A passionate backend developer from Cameroon</h3>
 
-I am a tech enthusiast and specialize in backend development. I have been in this field since 2022.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wesley-akumbom&label=Profile%20views&color=0e75b6&style=flat" alt="wesley-akumbom" /> </p>
 
-Skills: PYTHON / DJANGO/ FLASK / KOTLIN / SPRINGBOOT / FAST API / SQL / REST API / POSTMAN 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wesley-akumbom" alt="wesley-akumbom" /></a> </p>
 
-- 🔭 I’m currently working on A Raffle Draw Website 
-- 🌱 I’m currently learning Springboot/Kotlin for backend development 
-- 👯 I’m looking to collaborate on any open source backend projects 
-- 💬 Ask me about Python/Django/Flask/FastAPI 
-- 📫 How to reach me: akumbomwesley7@gmail.com 
-- 😄 Pronouns: HE/HIM 
-- ⚡ Fun fact:  I love music, am a pianist and a Music Director. Also a huge football fan! 
+<p align="left"> <a href="https://twitter.com/akumbom wesley" target="blank"><img src="https://img.shields.io/twitter/follow/akumbom wesley?logo=twitter&style=for-the-badge" alt="akumbom wesley" /></a> </p>
 
+- 🌱 I’m currently learning **Kotlin/Springboot for backend developtment**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Wesley-Akumbom)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Akumbom Wesley/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Akumbom Wesley/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Akumbom Wesley)  
+- 👯 I’m looking to collaborate on **open source projects**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 💬 Ask me about **Python, Django, Flask, FastAPI**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Wesley-Akumbom)](https://github.com/ryo-ma/github-profile-trophy)
+- 📫 How to reach me **akumbomwesley7@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-Akumbom)](https://github.com/anuraghazra/github-readme-stats)
+- ⚡ Fun fact **I play the piano, am a Music Direcotor and a huge Chelsea fan.**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wesley-Akumbom&show_icons=true)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/akumbom wesley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akumbom wesley" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akumbom wesley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akumbom wesley" height="30" width="40" /></a>
+<a href="https://fb.com/akumbom wesley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akumbom wesley" height="30" width="40" /></a>
+<a href="https://instagram.com/akumbom wesley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akumbom wesley" height="30" width="40" /></a>
+</p>
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Wesley-Akumbom/contributions?format=svg&private=false)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-![GitHub metrics](https://metrics.lecoq.io/Wesley-Akumbom)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesley-akumbom&show_icons=true&locale=en&layout=compact" alt="wesley-akumbom" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Wesley-Akumbom)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wesley-akumbom&show_icons=true&locale=en" alt="wesley-akumbom" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wesley-akumbom&" alt="wesley-akumbom" /></p>
 
